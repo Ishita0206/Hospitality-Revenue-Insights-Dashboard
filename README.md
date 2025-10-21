@@ -57,4 +57,4 @@ This project was created as a guided challenge based on the following resource:
 
 ---
 
-*Connect with me on [Your LinkedIn Profile Link] to discuss this project or other data analytics opportunities!*
+*Connect with me on [https://www.linkedin.com/in/ishita-sharma-b36193380/] to discuss this project or other data analytics opportunities!*
