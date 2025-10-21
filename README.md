@@ -1,5 +1,9 @@
 # 🏨 Hospitality Revenue Insights Dashboard
 
+## 🖼️ Dashboard Preview
+
+![Hospitality Revenue Dashboard Screenshot](dashboard.png)
+
 ## Project Overview
 
 This project is an end-to-end **Data Analytics** solution in the **Hospitality** domain, focusing on the development of an interactive **Power BI Dashboard**. The goal was to transform raw transactional data from a fictional hotel chain, **Atli Grans**, into actionable business intelligence to drive revenue optimization, improve service quality, and analyze pricing strategies.
